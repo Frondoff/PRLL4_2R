@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 19" line=" 9" >
+      <vfs_project>C:\GNAT\2020\bin\Projects\PRLL4_2\prll4_2.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2020\bin\Projects\PRLL4_2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 11" line=" 23" >
+      <vfs_project>C:\GNAT\2020\bin\Projects\PRLL4_2\prll4_2.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2020\bin\Projects\PRLL4_2\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
